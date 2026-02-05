@@ -13,3 +13,4 @@ demo/backend/checkpoints/*.pt
 datasets/*
 model_weights/*
 /sav_dataset/example/
+!datasets/
